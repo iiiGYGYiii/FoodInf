@@ -1,0 +1,25 @@
+{
+  "name": "foodinf",
+  "version": "1.0.0",
+  "description": "Food Inf MERN app",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiiGYGYiii/FoodInf.git"
+  },
+  "keywords": [
+    "mongo",
+    "express",
+    "typescript",
+    "node"
+  ],
+  "author": "iiiGYGYiii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iiiGYGYiii/FoodInf/issues"
+  },
+  "homepage": "https://github.com/iiiGYGYiii/FoodInf#readme"
+}
