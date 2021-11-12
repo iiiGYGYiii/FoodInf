@@ -2,7 +2,7 @@
   "name": "foodinf",
   "version": "1.0.0",
   "description": "Food Inf MERN app",
-  "main": "index.ts",
+  "main": "./src/index.ts",
   "scripts": {
     "test": "npm run test"
   },
