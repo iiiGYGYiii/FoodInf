@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/iiiGYGYiii/FoodInf/issues"
   },
-  "homepage": "https://github.com/iiiGYGYiii/FoodInf#readme"
+  "homepage": "https://github.com/iiiGYGYiii/FoodInf#readme",
+  "devDependencies": {
+    "tsc": "2.0.3"
+  }
 }
