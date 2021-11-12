@@ -26,8 +26,16 @@
   },
   "homepage": "https://github.com/iiiGYGYiii/FoodInf#readme",
   "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/morgan": "^1.9.3",
     "nodemon": "2.0.15",
     "ts-node": "10.4.0",
     "tsc": "2.0.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
   }
 }
