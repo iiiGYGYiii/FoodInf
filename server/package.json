@@ -4,7 +4,10 @@
   "description": "Food Inf MERN app",
   "main": "./src/index.ts",
   "scripts": {
-    "test": "npm run test"
+    "start": "if(!(Test-Path -Path ./build)){npm run run:build}else{node ./build/index.js}",
+    "dev": "nodemon ./src/index.ts",
+    "build": "tsc",
+    "run:build": "build && node ./build/index.js"
   },
   "repository": {
     "type": "git",
